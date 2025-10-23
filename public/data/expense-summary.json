@@ -1,0 +1,20 @@
+[
+  { "category": "", "income": 81915.23, "expenses": 0 },
+  { "category": "Automotive", "income": 0, "expenses": -2070.22 },
+  { "category": "Bills & Utilities", "income": 0, "expenses": -2555.29 },
+  { "category": "Education", "income": 0, "expenses": -236 },
+  { "category": "Entertainment", "income": 0, "expenses": -5584.4 },
+  { "category": "Fees & Adjustments", "income": 10.48, "expenses": 0 },
+  { "category": "Food & Drink", "income": 0, "expenses": -10061.68 },
+  { "category": "Gas", "income": 0, "expenses": -2155.63 },
+  { "category": "Gifts & Donations", "income": 0, "expenses": -70 },
+  { "category": "Groceries", "income": 44.34, "expenses": -11368.92 },
+  { "category": "Health & Wellness", "income": 30, "expenses": -7201.65 },
+  { "category": "Home", "income": 1838.4, "expenses": -19177.16 },
+  { "category": "Miscellaneous", "income": 0, "expenses": -710 },
+  { "category": "Personal", "income": 0, "expenses": -1266.6 },
+  { "category": "Professional Services", "income": 260.44, "expenses": -747.15 },
+  { "category": "Shopping", "income": 606.1, "expenses": -8067.86 },
+  { "category": "Travel", "income": 0, "expenses": -11838.78 },
+  { "category": "Grand Total", "income": 84704.99, "expenses": -83111.34 }
+]
